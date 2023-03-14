@@ -1,3 +1,3 @@
-const yourArray = ["Hello", 1, true, 2.5, false, undefined];
+const yourArray = ["one", "two" 1, true, false, 2, 1];
 //console.log(yourArray.length);
 
